@@ -11,5 +11,5 @@ My journey revising and mastering Data Structures & Algorithms using C++ (Apna C
 | Recursion & Backtracking | N-Queens, Subsets | Planned |
 
 ## 🛠️ Tech Stack
-* Language: C++17
+* Language: C++
 * IDE/Editor: VS Code
